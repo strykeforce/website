@@ -31,20 +31,20 @@
 		text-transform: uppercase;
 		font-weight: 300;
 	}
-
+	
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
 		{
 			color: inherit;
 			text-decoration: none;
 		}
-
+		
 	/* Change this to whatever font weight/color pairing is most suitable */
 	strong, b
 	{
 		font-weight: bold;
 		color: #000000;
 	}
-
+	
 	em, i
 	{
 		font-style: italic;
@@ -53,7 +53,7 @@
 	/* Don't forget to set this to something that matches the design */
 	a
 	{
-		color: #f1b91a;
+		color: #ff0000;
 	}
 
 	sub
@@ -62,27 +62,27 @@
 		top: 0.5em;
 		font-size: 0.8em;
 	}
-
+	
 	sup
 	{
 		position: relative;
 		top: -0.5em;
 		font-size: 0.8em;
 	}
-
+	
 	hr
 	{
 		border: 0;
 		border-top: solid 1px #ddd;
 	}
-
+	
 	blockquote
 	{
 		border-left: solid 0.5em #ddd;
 		padding: 1em 0 1em 2em;
 		font-style: italic;
 	}
-
+	
 	p, ul, ol, dl, table
 	{
 		margin-bottom: 1em;
@@ -93,7 +93,7 @@
 		margin-bottom: 2em;
 		line-height: 1.7em;
 	}
-
+	
 		header h2
 		{
 			font-size: 2.5em;
@@ -107,7 +107,7 @@
 			text-transform: uppercase;
 			font-size: 1.4em;
 		}
-
+		
 	footer
 	{
 		margin-top: 1em;
@@ -119,13 +119,13 @@
 	}
 
 	/* Sections/Articles */
-
+	
 		section,
 		article
 		{
 			margin-bottom: 3em;
 		}
-
+		
 		section > :last-child,
 		article > :last-child
 		{
@@ -150,7 +150,7 @@
 		{
 			display: inline-block;
 		}
-
+		
 			.image img
 			{
 				display: block;
@@ -163,20 +163,20 @@
 				width: 100%;
 				margin: 0 0 2em 0;
 			}
-
+			
 			.image.full
 			{
 				display: block;
 				width: 100%;
 				margin-bottom: 2em;
 			}
-
+			
 			.image.left
 			{
 				float: left;
 				margin: 0 2em 2em 0;
 			}
-
+			
 			.image.centered
 			{
 				display: block;
@@ -197,26 +197,26 @@
 			padding: 0;
 			list-style: none;
 		}
-
+		
 			ul.default li
 			{
 				display: block;
 				padding: 2em 0em 1.25em 0em;
 				border-top: 1px solid #303030;
 			}
-
+			
 			ul.default li:first-child
 			{
 				padding-top: 0em;
 				border-top: none;
 			}
-
+			
 			ul.default a
 			{
 				text-decoration: none;
 				color: rgba(255,255,255,.5);
 			}
-
+			
 			ul.default a:hover
 			{
 				text-decoration: underline;
@@ -228,20 +228,20 @@
 			padding: 0;
 			list-style: none;
 		}
-
+		
 			ul.style1 li
 			{
 				padding: 0.60em 0em;
 				border-top: 1px solid;
 				border-color: rgba(0,0,0,.1);
 			}
-
+			
 			ul.style1 li:first-child
 			{
 				padding-top: 0;
 				border-top: 0;
 			}
-
+			
 			ul.style1 img
 			{
 			}
@@ -260,7 +260,7 @@
 				border-top: 1px solid;
 				border-color: rgba(0,0,0,.1);
 			}
-
+			
 			ul.style2 li:first-child
 			{
 				padding-top: 0;
@@ -272,7 +272,7 @@
 				float: left;
 				padding-right: 1em;
 			}
-
+			
 		ul.style5
 		{
 			overflow: hidden;
@@ -280,29 +280,29 @@
 			padding: 0em;
 			list-style: none;
 		}
-
+		
 			ul.style5 li
 			{
 				float: left;
 				padding: 0.25em 0.25em;
 				line-height: 0;
 			}
-
+			
 			ul.style5 a
 			{
 			}
 
-
+			
 
 	/* Buttons */
-
+		
 		.button
 		{
 			position: relative;
 			display: inline-block;
 			margin-top: 0.5em;
 			padding: 0.50em 1.5em;
-			background: #f1b91a;
+			background: #f2b91a;
 			border-radius: 6px;
 			text-decoration: none;
 			text-transform: uppercase;
@@ -318,7 +318,7 @@
 
 			.button:hover
 			{
-				background: #de3d27;
+				background: #1378bb;
 				color: #FFF !important;
 			}
 
@@ -336,7 +336,7 @@
 		.fa.solo
 		{
 		}
-
+		
 			.fa.solo span
 			{
 				display: none;
@@ -776,11 +776,11 @@
 		left: 0em;
 		top: 3em;
 	}
-
+	
 		#logo h1
 		{
 		}
-
+	
 		#logo a
 		{
 			display: block;
@@ -804,7 +804,7 @@
 		{
 			float: left;
 		}
-
+		
 			#nav > ul > li:last-child
 			{
 				padding-right: 0;
@@ -826,7 +826,7 @@
 
 			#nav li.active a
 			{
-				background: #f1b91a;
+				background: #f2b91a;
 				border-radius: 5px;
 				color: #FFF;
 			}
@@ -835,7 +835,7 @@
 			{
 				display: none;
 			}
-
+	
 /*********************************************************************************/
 /* Banner                                                                        */
 /*********************************************************************************/
@@ -864,7 +864,7 @@
 		border-top: 1px solid;
 		border-color: rgba(0,0,0,.2);
 	}
-
+	
 	.sidebar header h2
 	{
 		font-size: 1.6em;
@@ -873,13 +873,13 @@
 /*********************************************************************************/
 /* Footer                                                                        */
 /*********************************************************************************/
-
+	
 	#footer
 	{
 		position: relative;
 		color: rgba(255,255,255,.4);
 	}
-
+	
 	#footer .container
 	{
 	}
@@ -895,11 +895,11 @@
 	{
 		color: rgba(255,255,255,.7);
 	}
-
+	
 /*********************************************************************************/
 /* Copyright                                                                     */
 /*********************************************************************************/
-
+	
 	#copyright
 	{
 		position: relative;
@@ -909,11 +909,11 @@
 		text-align: center;
 		color: rgba(255,255,255,.4);
 	}
-
+	
 	#copyright .container
 	{
 	}
-
+	
 	#copyright a
 	{
 		text-decoration: none;
@@ -923,38 +923,38 @@
 /*********************************************************************************/
 /* Marketing                                                                     */
 /*********************************************************************************/
-
+	
 	#marketing
 	{
 		position: relative;
 	}
-
+	
 	#marketing header h2
 	{
 		font-size: 1.6em;
 	}
-
+	
 /*********************************************************************************/
 /* Featured                                                                      */
 /*********************************************************************************/
-
+	
 	#featured
 	{
 		position: relative;
 	}
-
+	
 	#featured .divider
 	{
 		border-bottom: 1px solid #303030;
 	}
-
+	
 	#featured .box
 	{
 		background: #FFF;
 		padding: 1.4em;
 		font-size: 0.95em;
 	}
-
+	
 	blockquote
 	{
 		margin: 0;
@@ -962,7 +962,7 @@
 		border: none;
 		font-style: normal;
 	}
-
+	
 	.balloon {
 		padding: 1.87em;
 		background: url(images/img08.jpg) repeat left top;
@@ -971,12 +971,13 @@
 		font-size: 1.2em;
 		color: #333;
 	}
-
+	
 	.ballon-bgbtm {
 		height: 1.87em;
 	}
-
+	
 	.balloon strong
 	{
 		color: #333 !important;
 	}
+
