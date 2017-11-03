@@ -1,4 +1,8 @@
-<!doctype html>
+---
+layout: template
+title: Stryke Force
+---
+
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
@@ -6,7 +10,7 @@
 	<link rel="icon" type="image/png" href="assets/img/favicon.png">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-	<title>Material Kit by Creative Tim</title>
+	<title>Stryke Force Robotics</title>
 
 	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
 
@@ -35,18 +39,6 @@
 	        	<span class="icon-bar"></span>
 	        	<span class="icon-bar"></span>
 	    	</button>
-	    	<a href="http://www.creative-tim.com">
-	        	<div class="logo-container">
-	                <div class="logo">
-	                    <img src="assets/img/logo.png" alt="Creative Tim Logo" rel="tooltip" title="<b>Material Kit</b> was Designed & Coded with care by the staff from <b>Creative Tim</b>" data-placement="bottom" data-html="true">
-	                </div>
-	                <div class="brand">
-	                    Creative Tim
-	                </div>
-
-
-				</div>
-	      	</a>
 	    </div>
 
 	    <div class="collapse navbar-collapse" id="navigation-index">
@@ -89,8 +81,8 @@
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
 					<div class="brand">
-						<h1>Material Kit.</h1>
-						<h3>A Badass Bootstrap UI Kit based on Material Design.</h3>
+						<h1>Stryke Force Robotics</h1>
+						<h3>Test....</h3>
 					</div>
 				</div>
 			</div>
