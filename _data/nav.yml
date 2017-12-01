@@ -1,0 +1,46 @@
+- title: "Stryke Force"
+  href: "index"
+  subcategories:
+    - subtitle: "FRC"
+      subhref: "frc"
+      subsubcategories:
+        - subsubtitle: "FRC Team"
+          subsubhref: "frc-team"
+        - subsubtitle: "This years game"
+          subsubhref: "frc-this-yr-game"
+        - subsubtitle: "FRC"
+          subsubhref: "frc"
+      - subtitle: "FTC"
+        subhref: "ftc-team"
+        subsubcategories:
+          - subsubtitle: "FTC Team"
+            subsubhref: "ftc-team"
+          - subsubtitle: "This years game"
+            subsubhref: "ftc-this-yr-game"
+        - subtitle: "NRG"
+          subhref: "nrg"
+          subsubcategories:
+            - subsubtitle: "NRG Team"
+              subsubhref: "nrg-team"
+            - subsubtitle: "This years game"
+              subsubhref: "nrg-this-yr-game"
+            - subsubtitle: "Downloads"
+              subsubhref: "nrg-downloads"
+    - subtitle: "History"
+      subhref: "our-history"
+    - subtitle: "Photos"
+      subhref: "photos"
+    - subtitle: "Sponsors"
+      subhref: "sponsors"
+
+- title: "Blog"
+  href: "blog"
+
+- title: "Donate"
+  href: "donate"
+
+- title: "Events"
+  href: "events"
+
+- title: "First"
+  href: "first"

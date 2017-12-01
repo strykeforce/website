@@ -3,4 +3,4 @@ title: events
 layout: template
 ---
 
-<h3>Upcoming Events</h3>
+<h1>Upcoming Events</h1>
