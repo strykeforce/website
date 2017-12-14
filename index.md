@@ -3,56 +3,59 @@ layout: home
 title: Stryke Force
 ---
 
+<div class="section" id="carousel">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8 col-md-offset-2">
+
+				<!-- Carousel Card -->
+				<div class="card card-raised card-carousel">
+					<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+						<div class="carousel slide" data-ride="carousel">
+
+							<!-- Indicators -->
+							<ol class="carousel-indicators">
+								<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+								<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+								<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+							</ol>
+
+							<!-- Wrapper for slides -->
+							<div class="carousel-inner">
+								<div class="item active">
+									<img src="assets/img/2015-1-700x300.jpg" alt="FRC">
+									<div class="carousel-caption">
+										<h4><i class="material-icons">location_on</i> FRC Team (a long time ago)</h4>
+									</div>
+								</div>
+							</div>
+
+							<!-- Controls -->
+							<a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+								<i class="material-icons">keyboard_arrow_left</i>
+							</a>
+							<a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+								<i class="material-icons">keyboard_arrow_right</i>
+							</a>
+						</div>
+					</div>
+				</div>
+				<!-- End Carousel Card -->
+
+			</div>
+		</div>
+	</div>
+</div>
+
 <div class="section section-basic">
 	<div class="container">
         <div class="title">
-            <h2>Basic Elements</h2>
+            <h2>Stryke Force Robotics</h2>
         </div>
 
-        <div id="buttons">
-			<div class="title">
-				<h3>Buttons <br />
-					<small>Pick your style</small>
-				</h3>
-			</div>
-			<div class="row">
-				<div class="col-md-8 col-md-offset-2">
-					<button class="btn btn-primary">Default</button>
-					<button class="btn btn-primary btn-round">Round</button>
-					<button class="btn btn-primary btn-round">
-						<i class="material-icons">favorite</i> With Icon
-					</button>
-					<button class="btn btn-primary btn-fab btn-fab-mini btn-round">
-						<i class="material-icons">favorite</i>
-					</button>
-					<button class="btn btn-primary btn-simple">Simple</button>
-				</div>
-			</div>
-			<div class="title">
-                <h3><small>Pick your size</small></h3>
-            </div>
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                    <button class="btn btn-primary btn-xs">x-Small</button>
-                    <button class="btn btn-primary btn-sm">Small</button>
-                    <button class="btn btn-primary">Regular</button>
-                    <button class="btn btn-primary btn-lg">Large</button>
-                </div>
-            </div>
 
-			<div class="title">
-                <h3><small> Pick your color </small></h3>
-            </div>
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                    <button class="btn">Default</button>
-                    <button class="btn btn-primary">Primary</button>
-                    <button class="btn btn-info">Info</button>
-                    <button class="btn btn-success">Success</button>
-                    <button class="btn btn-warning">Warning</button>
-                    <button class="btn btn-danger">Danger</button>
-                </div>
-            </div>
+
+
             <div class="title">
                 <h3>Links</h3>
             </div>
@@ -1028,28 +1031,6 @@ title: Stryke Force
 								<li data-target="#carousel-example-generic" data-slide-to="2"></li>
 							</ol>
 
-							<!-- Wrapper for slides -->
-							<div class="carousel-inner">
-								<div class="item active">
-									<img src="assets/img/bg2.jpeg" alt="Awesome Image">
-									<div class="carousel-caption">
-										<h4><i class="material-icons">location_on</i> Yellowstone National Park, United States</h4>
-									</div>
-								</div>
-								<div class="item">
-									<img src="assets/img/bg3.jpeg" alt="Awesome Image">
-									<div class="carousel-caption">
-										<h4><i class="material-icons">location_on</i> Somewhere Beyond, United States</h4>
-									</div>
-								</div>
-								<div class="item">
-									<img src="assets/img/bg4.jpeg" alt="Awesome Image">
-									<div class="carousel-caption">
-										<h4><i class="material-icons">location_on</i> Yellowstone National Park, United States</h4>
-									</div>
-								</div>
-							</div>
-
 							<!-- Controls -->
 							<a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
 								<i class="material-icons">keyboard_arrow_left</i>
@@ -1078,69 +1059,7 @@ title: Stryke Force
 	</div>
 </div>
 
-<div class="section section-full-screen section-signup" style="background-image: url('assets/img/city.jpg'); background-size: cover; background-position: top center; min-height: 700px;">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-4 col-md-offset-4">
-				<div class="card card-signup">
-					<form class="form" method="" action="">
-						<div class="header header-primary text-center">
-							<h4>Sign Up</h4>
-							<div class="social-line">
-								<a href="#pablo" class="btn btn-simple btn-just-icon">
-									<i class="fa fa-facebook-square"></i>
-								</a>
-								<a href="#pablo" class="btn btn-simple btn-just-icon">
-									<i class="fa fa-twitter"></i>
-								</a>
-								<a href="#pablo" class="btn btn-simple btn-just-icon">
-									<i class="fa fa-google-plus"></i>
-								</a>
-							</div>
-						</div>
-						<p class="text-divider">Or Be Classical</p>
-						<div class="content">
 
-							<div class="input-group">
-								<span class="input-group-addon">
-									<i class="material-icons">face</i>
-								</span>
-								<input type="text" class="form-control" placeholder="First Name...">
-							</div>
-
-							<div class="input-group">
-								<span class="input-group-addon">
-									<i class="material-icons">email</i>
-								</span>
-								<input type="text" class="form-control" placeholder="Email...">
-							</div>
-
-							<div class="input-group">
-								<span class="input-group-addon">
-									<i class="material-icons">lock_outline</i>
-								</span>
-								<input type="password" placeholder="Password..." class="form-control" />
-							</div>
-
-							<!-- If you want to add a checkbox to this form, uncomment this code
-
-							<div class="checkbox">
-								<label>
-									<input type="checkbox" name="optionsCheckboxes" checked>
-									Subscribe to newsletter
-								</label>
-							</div> -->
-						</div>
-						<div class="footer text-center">
-							<a href="#pablo" class="btn btn-simple btn-primary btn-lg">Get Started</a>
-						</div>
-					</form>
-				</div>
-
-			</div>
-		</div>
-	</div>
-</div>
 
 <div class="col-md-12 text-center">
 	<a href="examples/signup-page.html" class="btn btn-simple btn-primary btn-lg" target="_blank">View Signup Page</a>
