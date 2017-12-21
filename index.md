@@ -35,9 +35,21 @@ title: Stryke Force
 							<!-- Wrapper for slides -->
 							<div class="carousel-inner">
 								<div class="item active">
-									<img src="assets/img/2015-1-700x300.jpg" alt="FRC">
+									<img src="assets/img/World Champions.JPG" alt="FRC">
 									<div class="carousel-caption">
-										<h4><i class="material-icons">location_on</i> FRC Team (a long time ago)</h4>
+										<h4>World Champions</h4>
+									</div>
+								</div>
+								<div class="item">
+									<img src="assets/img/20170628_130650.jpg" alt="With Governor Snyder">
+									<div class="carousel-caption">
+										<h4>With the Governor</h4>
+									</div>
+								</div>
+								<div class="item">
+									<img src="assets/img/IMG_8813.jpg" alt="NRG">
+									<div class="carousel-caption">
+										<h4>NRG Team</h4>
 									</div>
 								</div>
 							</div>
@@ -64,6 +76,7 @@ title: Stryke Force
             <div class="col-md-6">
                 <a href="http://127.0.0.1:4000/first.html" target="_blank">
                     <h4>What is FIRST Robotics</h4>
+										<img src="assets/img/first-logo-200px.png" alt="FIRST"><br>
 										<button class="btn btn-simple btn-primary btn-lg">Learn more</button>
                 </a>
             </div>
