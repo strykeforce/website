@@ -11,7 +11,7 @@ subtitle:
 email:
 description: Stryke Force's <br /> new responsive site.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://strykeforce.github.io/website/" # the base hostname & protocol for your site
+url: "https://strykeforce.github.io/website" # the base hostname & protocol for your site
 blog_url: "https://strykeforce.github.io/website/blog/"
 author: Stryke Force
 street_address:
@@ -55,7 +55,7 @@ social:
   links:
     -
     - https://github.com/strykeforce
-google_site_verification: 
+google_site_verification:
 
 #Jekyll Assets settings
 assets:
