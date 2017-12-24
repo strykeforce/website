@@ -3651,10 +3651,10 @@ h2.title {
   padding-top: 15px;
 }
 .index-page .header-filter:after {
-  background: rgba(101, 47, 142, 0.64);
-  background: linear-gradient(45deg, rgb(101, 47, 142, 0.88) 0%, rgb(242, 185, 26) 100%);
+  background: rgba(242, 185, 26, 0.64);
+  /*background: linear-gradient(45deg, rgb(101, 47, 142, 0.88) 0%, rgb(242, 185, 26) 100%);
   background: -moz-linear-gradient(135deg, rgb(242, 185, 26) 0%, rgb(242, 185, 26) 100%);
-  background: -webkit-linear-gradient(135deg, rgb(242, 185, 26) 0%, rgb(242, 185, 26) 100%);
+  background: -webkit-linear-gradient(135deg, rgb(242, 185, 26) 0%, rgb(242, 185, 26) 100%);*/
 }
 
 .landing-page .header {
@@ -3750,6 +3750,14 @@ h2.title {
     margin-left: 10px;
     margin-right: 10px;
   }
+}
+
+.dropdown-submenu {
+    position:relative;
+}
+.dropdown-submenu .dropdown-menu {
+    top:0;
+    left:100%;
 }
 
 /*# sourceMappingURL=material-kit.css.map */
