@@ -1,0 +1,72 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Stryke Force
+subtitle:
+email:
+description: Stryke Force's <br /> new responsive site.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://strykeforce.github.io/website/" # the base hostname & protocol for your site
+blog_url: "https://strykeforce.github.io/website/blog/"
+author: Stryke Force
+street_address:
+city: Kalamazoo
+state: MI
+zip_code:
+country: United States of America
+phone:
+
+# Logo settings
+logo: "/assets/img/sf-logo.jpg"
+logo-image-url:
+font-awesome-icon-logo:
+
+# Social settings
+github_username: strykeforce
+twitter_username:
+google_username:
+instagram_username:
+facebook_username:
+dribble_username:
+
+github_url:
+twitter_url:
+facebook_url:
+instagram_url:
+dribble_url:
+google_url:
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  #- jekyll-assets
+host: 0.0.0.0
+
+# Additional SEO Tag settings
+social:
+  name: Stryke Force
+  links:
+    -
+    - https://github.com/strykeforce
+google_site_verification: 
+
+#Jekyll Assets settings
+assets:
+  compress:
+    css: true
+    js: true
+  cache: true
+  prefix: "/assets"
+  assets:
+    - "*.png"
+    - "*.pdf"
+    - "*.jpg"
+    - "*.jpeg"
+  digest: true
