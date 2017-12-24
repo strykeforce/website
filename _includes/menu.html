@@ -1,0 +1,98 @@
+<nav class="navbar navbar-transparent navbar-fixed-top navbar-color-on-scroll">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navigation-index">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="{{site.url}}">
+                <div class="logo-container">
+                    <div class="logo">
+                        <img src="{{site.url}}/assets/img/sf-logo.jpg" alt="Stryke Force Logo">
+                    </div>
+
+                    <div class="brand">
+                        Stryke Force
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="navigation-index">
+            <ul class="nav navbar-nav navbar-right">
+                {% for d in site.data.nav %}
+
+                <!-- check to see if the data file has a submenu, and if so display it -->
+                {% if d.subcategories != null %}
+                <li>
+                    <a href="#">
+                        {{ d.title }}
+                        <b class="caret"></b>
+                        <div class="ripple-container"></div>
+                    </a>
+                    <ul class="dropdown-menu">
+                        {% for subcategory in d.subcategories %}
+                        {% if subcategory.subsubcategories != null %}
+                        <li class="dropdown-submenu">
+                            <a href="#">{{ subcategory.subtitle }} <b class="caret"></b> </a>
+                            <ul class="dropdown-menu">
+                                {% for subsubcategory in subcategory.subsubcategories %}
+                                {% if subsubcategory.subsubsubcategories != null %}
+                                <li class="dropdown-submenu">
+                                    <a href="#">{{ subsubcategory.subsubtitle }} <b class="caret"></b> </a>
+                                    <ul class="dropdown-menu">
+                                        {% for subsubsubcategory in subsubcategory.subsubsubcategories %}
+                                        <li>
+                                            <a href="{{ site.url }}/{{d.href}}/{{ subcategory.subhref }}/{{ subsubcategory.subsubhref }}/{{ subsubsubcategory.subsubsubhref }}.html">{{ subsubsubcategory.subsubsubtitle }}</a>
+                                        </li>
+                                        {% endfor %}
+                                    </ul>
+                                    {% else %}
+
+                                    <!-- display the top level navigation for items that don’t have a subsubmenu -->
+                                    <li>
+                                        {% if subsubcategory.subsubhref == "index" || subsubcategory.subsubhref == "" || subsubcategory.subsubhref == "/" %}
+                                        <a href="{{ site.url }}/">{{ subcategory.subsubtitle }}</a>
+                                        {% else %}
+                                        <a href="{{ site.url }}/{{ d.href }}/{{ subcategory.subhref }}/{{ subsubcategory.subsubhref }}.html">{{ subsubcategory.subsubtitle }}</a>
+                                        {% endif %}
+                                        {% endif %}
+                                    </li>
+                                    {% endfor %}
+                                    <!--li>
+                                    <a href="{{ site.url }}/{{d.href}}/{{ subcategory.subhref }}/{{ subsubcategory.subsubhref }}.html">{{ subsubcategory.subsubtitle }}</a>
+                                </li-->
+                            </ul>
+                            {% else %}
+
+                            <!-- display the top level navigation for items that don’t have a subsubmenu -->
+                            <li>
+                                {% if subcategory.subhref == "index" || subcategory.subhref == "" || subcategory.subhref == "/" %}
+                                <a href="{{ site.url }}/">{{ subcategory.subtitle }}</a>
+                                {% else %}
+                                <a href="{{ site.url }}/{{ d.href }}/{{ subcategory.subhref }}.html">{{ subcategory.subtitle }}</a>
+                                {% endif %}
+                                {% endif %}
+                            </li>
+                            {% endfor %}
+                        </ul>
+                        {% else %}
+
+                        <!-- display the top level navigation for items that don’t have a submenu -->
+                        <li>
+                            {% if d.href == "index" || d.href == "" || d.href == "/" %}
+                            <a href="{{ site.url }}/">{{ d.title }}</a>
+                            {% else %}
+                            <a href="{{ site.url }}/{{ d.href }}.html">{{ d.title }}</a>
+                            {% endif %}
+
+                            {% endif %}
+                        </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</nav>
+<!-- End Navbar -->

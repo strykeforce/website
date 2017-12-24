@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+
+<!-- Navbar will come here -->
+
+
+<!-- end navbar -->
+
+<div class="wrapper">
+	<div class="header-pages">
+{% include menu.html %}
+	</div>
+	<!-- you can use the class main-raised if you want the main area to be as a page with shadows -->
+	<div class="main-raised">
+		<div class="container">
+
+			{{ content }}
+
+		</div>
+	</div>
+</div>
+
+{% include footer.html %}
+
+</body>
+
+</html>

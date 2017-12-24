@@ -1,0 +1,56 @@
+- title: "Stryke Force"
+  href: "strykeforce"
+  subcategories:
+    - subtitle: "Our History"
+      subhref: "our-history"
+    - subtitle: "Photos"
+      subhref: "photos"
+    - subtitle: "Sponsors"
+      subhref: "sponsors"
+    - subtitle: "FRC"
+      subhref: "frc"
+      subsubcategories:
+        - subsubtitle: "FRC - Team"
+          subsubhref: "frc-team"
+        - subsubtitle: "This Year's Game"
+          subsubhref: "frc-this-yr-game"
+        - subsubtitle: "Previous Year's Game"
+          subsubhref: "ftc-prev-yr-game"
+    - subtitle: "FTC"
+      subhref: "ftc"
+      subsubcategories:
+        - subsubtitle: "FTC - Team"
+          subsubhref: "ftc-team"
+        - subsubtitle: "This Year's Game"
+          subsubhref: "ftc-this-yr-game"
+    - subtitle: "NRG"
+      subhref: "nrg"
+      subsubcategories:
+        - subsubtitle: "About"
+          subsubhref: "nrg-about"
+        - subsubtitle: "Team"
+          subsubhref: "nrg-team"
+        - subsubtitle: "This Year's Game"
+          subsubhref: "nrg-this-yr-game"
+        - subsubtitle: "Downloads"
+          subsubhref: "nrg-downloads"
+
+- title: "FIRST"
+  href: "first"
+
+- title: "Blog"
+  href: "blog"
+
+- title: "Events"
+  href: "events"
+
+- title: "Donate"
+  href: "donate"
+
+- title: "Contact"
+  href: "contact"
+  subcategories:
+    - subtitle: "New Members"
+      subhref: "new-members"
+    - subtitle: "Contact"
+      subhref: "contact"

@@ -6,40 +6,40 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Strykeforce
-subtitle: A FIRST Robotics team
-email: 
-description: A FIRST Robotics team
+title: Stryke Force
+subtitle:
+email:
+description: Stryke Force's <br /> new responsive site.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dev-sf-site.github.io" # the base hostname & protocol for your site
-blog_url: "https://dev-sf-site.github.io/blog/"
-author: Strykeforce
-street_address: 
-city: 
-state: 
-zip_code: 
-country: 
-phone: 
+url: "https://strykeforce.github.io/website/" # the base hostname & protocol for your site
+blog_url: "https://strykeforce.github.io/website/blog/"
+author: Stryke Force
+street_address:
+city: Kalamazoo
+state: MI
+zip_code:
+country: United States of America
+phone:
 
 # Logo settings
-logo: ""
+logo: "/assets/img/sf-logo.jpg"
 logo-image-url:
 font-awesome-icon-logo:
 
 # Social settings
-github_username: 
-twitter_username: 
-google_username: 
+github_username: strykeforce
+twitter_username:
+google_username:
 instagram_username:
-facebook_username: 
+facebook_username:
 dribble_username:
 
-github_url: https://github.com/strykeforce
-twitter_url: 
-facebook_url: 
+github_url:
+twitter_url:
+facebook_url:
 instagram_url:
 dribble_url:
-google_url: 
+google_url:
 
 # Build settings
 markdown: kramdown
@@ -51,8 +51,10 @@ host: 0.0.0.0
 
 # Additional SEO Tag settings
 social:
-  name: Strykeforce
+  name: Stryke Force
   links:
+    -
+    - https://github.com/strykeforce
 google_site_verification: 
 
 #Jekyll Assets settings
