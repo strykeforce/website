@@ -3,7 +3,7 @@ title: Contact
 layout: template
 ---
 
-<!-- NEED TO FIX.  BROKEN CSS -->
+
 <body class="signup-page">
     <div class="wrapper">
 		<div class="header header-filter" style="background-image: url('../assets/img/city.jpg'); background-size: cover; background-position: top center;">

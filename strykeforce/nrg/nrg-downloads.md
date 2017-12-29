@@ -1,5 +1,5 @@
 ---
-title: Downloads
+title: NRG - Downloads
 layout: template
 ---
 
