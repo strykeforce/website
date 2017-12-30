@@ -1,188 +1,227 @@
-- name: Alex Eldridge
+- name: Alex E
   job:
   file: P1090379.JPG
-  school:
+  school: Portage Northern
+  grade: 9
 
-- name: Alex Zajac
-  job:
-  file:
+- name: Alex Z
+  job: Build
+  file: P1090370.JPG
   school:
+  grade: 9
 
-- name: Anna Puca
+- name: Anna P
   job: Build
   file:
   school:
+  grade:
 
-- name: Audrey Rabick
+- name: Audrey R
   job: Business
   file: P1090377.JPG
   school: Comstock/KAMSC
+  grade: 11
 
-- name: Brianna Kohl
+- name: Brianna K
   job:
   file: P1090376.JPG
   school:
+  grade:
 
-- name: Cade Peterman
+- name: Cade P
   job: Build
   file: P1090381.JPG
-  school:
+  school: Loy Norrix
+  grade: 10
 
-- name: Carter Briggs
+- name: Carter B
   job: Build
   file: P1090364.JPG
   school: Portage Northern/KAMSC
+  grade: 11
 
-- name: Carte	Simmons
+- name: Carter S
   job: Build
   file:
-  school:
+  school: Mattawan
+  grade: 9
 
-- name: Connor Piereson
+- name: Connor P
   job: Build
   file:
-  school:
+  school: Portage Northern
+  grade: 11
 
-- name: David	Herr
+- name: David	H
   job: Build
-  file:
+  file: P1090380.JPG
   school:
+  grade: 9
 
-- name: Drew Stark
+- name: Drew S
   job: Build
   file: P1090363.JPG
-  school:
+  school: Gull Lake
+  grade: 12
 
-- name: Ethan	Clare
+- name: Ethan	C
   job: Build
   file:
+  school: Portage Northern
+  grade: 9
 
-- name: Ethan Lee
+- name: Ethan L
   job:
   file: P1090378.JPG
   school:
+  grade:
 
-- name: Greg Redlon
+- name: Greg R
   job: Build
   file:
-  school:
+  school: Portage Central
+  grade: 11
 
-- name: Hunter McGillivray
+- name: Hunter M
   job: Build
   file: P1090375.JPG
   school: Portage Northern
+  grade: 11
 
-- name: Hunter Schabes
+- name: Hunter S
   job:
   file:
   school:
+  grade:
 
-- name: Jacob	Woessner
+- name: Jacob	W
   job:
   file:
   school:
+  grade: 9
 
-- name: Jager	Doorn
+- name: Jager	D
   job: Build
   file: P1090367.JPG
-  school:
+  school: Homeschool
+  grade: 9
 
-- name: Jack Bruinwood
-  job: Build
+- name: Jack B
+  job: Build/Drive
   file:
-  school:
+  school: Homeschool
+  grade: 11
 
-- name: Julie
-  job:
+- name: Julie A
+  job:  Build
   file: P1090373.JPG
-  school:
+  school: Portage Northern Belgian Exchange Student
+  grade: 12
 
-- name: Kayleigh Batchos
+- name: Kayleigh B
   job:
   file:
   school: Gull Lake/KAMSC
+  grade: 11
 
-- name: Kjerstin Lindbloom
+- name: Kjerstin L
   job: Build
   file: P1090366.JPG
-  school:
+  school: Mattawan
+  grade: 9
 
-- name: Kris Ouvry
+- name: Kris O
   job: Build
-  file:
+  file: P1090365.JPG
   school:
+  grade:
 
-- name: Lilian Gates
+- name: Lillian G
   job: Programming
   file: P1090360.JPG
   school:
+  grade: 9
 
-- name: Maddie Dwyer
+- name: Maddie D
   job: Programming
   file:
-  school:
+  school: Portage Central
+  grade: 9
 
-- name: Matt Clark
+- name: Matt C
   job: Build
   file:
   school: Portage Northern
+  grade: 11
 
-- name: Nina Herschleb
+- name: Nina H
   job:
   file: P1090374.JPG
   school:
+  grade:
 
-- name: Onica	Nyachowe
+- name: Onica	N
   job:
   file:
-  school:
+  school: Mattawan
+  grade: 10
 
-- name: Ranya	Liu
+- name: Ranya	L
   job: Programming
   file: P1090359.JPG
   school:
+  grade: 10
 
-- name: Riley	Carlson
+- name: Riley	C
   job: Programmingimg
   file:
-  school:
+  school: Portage Northern
+  grade: 10
 
-- name: Roberts	Kalnins
+- name: Roberts	K
   job: Programming
   file: P1090362.JPG
   school: Portage Northern/KAMSC
+  grade: 11
 
-- name: Ross Malackowski
-  job:
+- name: Ross M
+  job: Build
   file:
-  school:
+  school: Homeschool
+  grade: 11
 
-- name: Sam	Breuer
+- name: Sam	B
   job: Programming
-  file:
-  school:
+  file: P1090361.JPG
+  school: Portage Central
+  grade: 12
 
-- name: Sam	Rabick
+- name: Sam	R
   job: Programming
   file: P1090371.JPG
   school: Comstock/KAMSC
+  grade: 9
 
-- name: Sid	Pagariya
+- name: Sid	P
   job: Programming
   file:
   school: Portage Northern/KAMSC
+  grade:  12
 
-- name: Sierra Staunton
+- name: Sierra S
   job: Build
   file:
   school: Portage Northern/KAMSC
+  grade:  11
 
-- name: Stuart Botfield
+- name: Stuart B
   job: Programming
   file:
-  school:
+  school: Portage Central
+  grade: 12
 
-- name: Trenten	Seeger
+- name: Trenton	Seeger
   job:
   file:
   school:
+  grade:

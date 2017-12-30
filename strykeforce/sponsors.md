@@ -3,6 +3,8 @@ layout: template
 title: Sponsors
 ---
 
+<center>
+
 <h2 class="sponsor-category">Platinum</h2>
 {% for d in site.data.sponsors %}
   {% if d.category == "platinum" %}
@@ -23,7 +25,7 @@ title: Sponsors
 {% for d in site.data.sponsors %}
   {% if d.category == "silver" %}
   <h3><a href="{{ d.link }}">{{ d.title }}</a></h3>
-  <a href="{{ d.link }}"><img src="{{ site.url }}/assets/img/stryke-force/sponsors/{{ d.file }}" width="300px"></a>
+  <a href="{{ d.link }}"><img src="{{ site.url }}/assets/img/stryke-force/sponsors/{{ d.file }}" width="250px"></a>
   {% endif %}
 {% endfor %}
 
@@ -31,6 +33,8 @@ title: Sponsors
 {% for d in site.data.sponsors %}
   {% if d.category == "bronze" %}
   <h3><a href="{{ d.link }}">{{ d.title }}</a></h3>
-  <a href="{{ d.link }}"><img src="{{ site.url }}/assets/img/stryke-force/sponsors/{{ d.file }}" width="200px"></a>
+  <a href="{{ d.link }}"><img src="{{ site.url }}/assets/img/stryke-force/sponsors/{{ d.file }}" width="100px"></a>
   {% endif %}
 {% endfor %}
+
+</center>
