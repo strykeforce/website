@@ -1,5 +1,5 @@
 ---
-title: NRG - The Team
+title: The Team
 layout: template
 ---
 
