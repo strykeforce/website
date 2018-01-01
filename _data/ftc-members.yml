@@ -1,5 +1,5 @@
 - name: Missy D
-  file:
+  file: mentors/MissyDwyer.jpg
   role: coach
 
 - name: True D
@@ -7,15 +7,15 @@
   role: mentor
 
 - name: Andy S
-  file:
+  file: mentors/AndyStaats.jpg
   role: mentor
 
 - name: Cory W
-  file:
+  file: mentors/CoryWalters.jpg
   role: mentor
 
 - name: Cory W
-  file:
+  file: mentors/CoryWelch.jpg
   role: mentor
 
 - name: Craig W
