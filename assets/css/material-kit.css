@@ -1762,7 +1762,7 @@ select.form-control[multiple], .form-group.is-focused select.form-control[multip
 }
 
 .input-group .input-group-btn {
-  padding: 0 12px;
+  padding: 0px 12px;
 }
 .input-group .input-group-addon {
   border: 0;

@@ -12,10 +12,9 @@ layout: template
 						<div class="card card-signup">
 							<form class="form" method="" action="">
 								<div class="header header-primary text-center">
-									<h4>Sign Up</h4>
+									<h4>Contact Us</h4>
 								</div>
 								<div class="content">
-
 									<div class="input-group">
 										<span class="input-group-addon">
 											<i class="material-icons">face</i>
@@ -27,22 +26,24 @@ layout: template
 										<span class="input-group-addon">
 											<i class="material-icons">email</i>
 										</span>
-										<input type="text" class="form-control" placeholder="Email">
+										<input required type="text" class="form-control" placeholder="Email">
 									</div>
+
+                  <center>
+
+                  <div class="input-group">
+                    <input type="text" placeholder="Subject" class="form-control">
+                  </div>
 
 									<div class="input-group">
-										<input type="text" placeholder="Message" class="form-control" />
+										<input required type="text" placeholder="Comment" class="form-control">
 									</div>
-
-									<!-- If you want to add a checkbox to this form, uncomment this code
-
-									<div class="checkbox">
-										<label>
-											<input type="checkbox" name="optionsCheckboxes" checked>
-											Subscribe to newsletter
-										</label>
-									</div> -->
+                  </center>
 								</div>
+
+                <center>
+                <div class="g-recaptcha" data-sitekey="6LcX9D4UAAAAACbhCfrvz3cC7-6ZvKNqLyzZBlRa"></div>
+                </center>
 								<div class="footer text-center">
 									<a href="#pablo" class="btn btn-simple btn-primary btn-lg">Submit</a>
 								</div>
