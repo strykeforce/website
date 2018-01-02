@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+
+<!-- end navbar -->
+
+<div class="wrapper">
+	<div class="header-pages">
+{% include menu.html %}
+
+	</div>
+	<!-- you can use the class main-raised if you want the main area to be as a page with shadows -->
+	<div class="main-raised">
+		<div class="container">
+			<h1>{{ page.title }}</h1>
+      {% if page.subtitle != null %}<h2>{{ page.subtitle }}</h2>{% endif %}
+      {% if page.author != null %}<h4> Written by: {{ page.author }}</h4>{% endif %}
+      {% if page.date != null %}<h4>Published: {{ page.date | date: "%B %-d, %Y" }}</h4>{% endif %}
+      <br>
+			{{ content }}
+
+		</div>
+	</div>
+</div>
+
+{% include footer.html %}
+
+</body>
+
+</html>
