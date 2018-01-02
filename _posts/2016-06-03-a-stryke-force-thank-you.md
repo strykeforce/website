@@ -7,8 +7,6 @@ description:
 date: 2016-06-03 23:53:58
 ---
 
-# A Stryke Force Thank You
-
 It has been an amazing year for the Stryke Force team, with our accomplishments including, but not limited to...
 
   * The FRC team:

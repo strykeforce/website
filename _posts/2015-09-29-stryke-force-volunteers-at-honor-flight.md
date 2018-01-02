@@ -7,8 +7,6 @@ description:
 date: 2015-09-29 09:00:37
 ---
 
-# Stryke Force Volunteers At Honor Flight
-
 This Saturday,  a bunch of Stryke Force members came together at the air zoo in order to participate in the 2015 Honor Flight. This organization raises money to send war veterans to Washington D.C. to view their memorials. Our part is to welcome them back home when their plane arrives. Personally, I thought that the whole thing was phenomenal! At first there was a lot of waiting around and organizing, but even that was fun. It was a great chance for the FTC (middle school) and FRC (high school) teams to hang out and get to know each other more. It was also a great way to learn skills such as being civil and polite when giving directions, and helping others.
 
 ### Then, the main event, the veterans arrived!

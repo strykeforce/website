@@ -7,8 +7,6 @@ description:
 date: 2015-10-09 09:00:35
 ---
 
-# Meet The Team! - FTC 7228
-
 Meet the students on FTC Team 7228, Styke Force Special Air Service! **![](/wp-content/uploads/2015/10/IMG_20151009_100343-300x300.jpg)**    
 
 **Dante R.**

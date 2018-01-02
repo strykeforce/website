@@ -7,8 +7,6 @@ description:
 date: 2015-09-22 09:00:22
 ---
 
-# FTC Thoughts on the 2015 Season
-
 Check out what the FTC students have to say about the 2015 season.
 
 * * *

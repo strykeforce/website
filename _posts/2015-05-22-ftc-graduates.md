@@ -8,8 +8,6 @@ date: 2015-05-22 09:00:02
 
 ---
 
-# FTC Graduates
-
 We had three younger siblings affectionately known as 'RoboRats'. They watched and formulated a plan to start a FTC team. After all their hard work we knew we had to help them. As one of the RoboRats said, "I just had to be apart of it!" In the summer of 2013 four enthusiastic students put their plan in action. With the help of FRC students and mentors Stryke Force Special Air Service 7228 began. After two very successful seasons of FTC, Zach Palan-Lilland, Ross Malackowski, Sierra Staunton, and Jack Bruinwood, will be joining FRC team Stryke Force 2767. We couldn't be happier to have them! Here's what they have to say about their experience with FTC:
 
 **Zach Palan-Lilland** ![IMG_8191](/wp-content/uploads/2015/05/IMG_8191-300x200.jpg)

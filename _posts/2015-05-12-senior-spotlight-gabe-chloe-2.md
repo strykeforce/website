@@ -7,8 +7,6 @@ description:
 date: 2015-05-12 09:00:43
 ---
 
-# Senior Spotlight - Gabe & Chloê
-
 As the 2015 season is drawing to a close it’s time to begin saying goodbye to our wonderful seniors. We’ll miss you all more than words can express, and we wish you the very best wherever life takes you!
 
 **Gabe Daudert**

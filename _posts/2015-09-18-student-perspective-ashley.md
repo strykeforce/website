@@ -6,8 +6,6 @@ description:
 date: 2015-09-18 09:00:34
 ---
 
-# Student Perspective - Ashley
-
 Check out what one of our rookie students has to say about her experience with Stryke Force.
 
 As it is my first year on Stryke Force, I lack memories to share with prospective team members. However, I won't hesitate to share that most team members and all mentors are extremely willing to share their knowledge with anybody who asks. My experience with the mentors has been one of my favorite things this year because I can be confident that my questions will be well received and that I will be capable of contributing something worthwhile to the robot - a huge concern for new teammates.

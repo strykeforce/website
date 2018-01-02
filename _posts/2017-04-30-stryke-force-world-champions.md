@@ -7,8 +7,6 @@ description:
 date: 2017-04-30 14:21:25
 ---
 
-# Stryke Force -- St. Louis World Champions!!
-
 _**We are officially World Champions! Thank you to our sponsors, fans, and family for making this team possible! What a fantastic year!**_ ![](/wp-content/uploads/2017/04/World-Champs-Team-Photo.jpg) ![](http://strykeforce.org/wp-content/uploads/2017/04/winning-score.jpg)
 
 ## Comments

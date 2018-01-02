@@ -7,8 +7,6 @@ description:
 date: 2016-09-23 20:14:35
 ---
 
-# Meet the New Mentor! - Jeff Hutchison
-
 My name is Jeff Hutchison.  I recently joined the Stryke Force Robotics team as a programming mentor upon my retirement from Stryker.  I learned about this team from Jerry Culp, a former co-worker.
 
  

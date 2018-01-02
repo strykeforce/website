@@ -7,8 +7,6 @@ description:
 date: 2017-09-13 15:57:28
 ---
 
-# FTC Kick-Off
-
 Our FTC season is off to a great start! The kids have been meeting since the beginning of August to learn some basic skills and get to know one another.
 
 You may have seen them in your neighborhood collecting pop cans. They’ve been working hard, and have collected over 20,000 cans and bottles to meet their fundraising goal!

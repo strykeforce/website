@@ -7,8 +7,6 @@ description:
 date: 2015-12-05 10:40:44
 ---
 
-# FTC Perspective on Kentwood Competition
-
 In response to the recent Kentwood competition and preparing for the upcoming Allendale competition, the FTC kids reflected on their opinions of the Kentwood competitions, Kjerstin, Dante, Jager, Maddie, and Sam from team 7228 and Sydney and Ethan from team 8553 were interviewed on how they think things went. What was your overall opinion of the Kentwood competition?
 
   * Very friendly, although the pits were scattered around. (Kjerstin)

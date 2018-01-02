@@ -7,8 +7,6 @@ description:
 date: 2016-07-29 09:00:38
 ---
 
-# Summer Robotics Camp
-
 [caption id="attachment_4068" align="aligncenter" width="579"]![Cole, Karley, McKenzie, Nick](/wp-content/uploads/2016/07/IMG_20160727_152407-1.jpg) Cole, Karley, McKenzie, Nick[/caption]
 
 Nothing says summer like camp. Even though my friends and I didn’t go to a traditional summer camp, our time at Michigan Tech.'s Summer Youth Programs was a great way to spend a few weeks before our senior year. My name is McKenzie Elliott and my friend Karley Reed and I attended MDOT’s National Summer Transportation Institute (NSTI) for two weeks. The camp explored civil engineering through bridge building projects, city design competitions, and speakers from the university as well as professional engineers. The two weeks were a great mix of hands on learning and lecture type classes. My favorite part of the camp was getting to tour the insides of the piers of the Mackinac Bridge.

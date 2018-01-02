@@ -6,8 +6,6 @@ description:
 date: 2015-06-12 09:00:11
 ---
 
-# Maverick's Summer Adventures - Week 2
-
 Maverick's adventures took him somewhere that was named for the founder of Kalamazoo, can you guess where he is? Comment your guess and check in [next week](/2015/06/19/mavericks-summer-adventures-week-3/) to see if you were correct! This summer Maverick is going on vacation to tour Kalamazoo with his Stryke Force friends. We'll be posting pictures of his adventures each week, so be sure to look for them!
 
 * * *

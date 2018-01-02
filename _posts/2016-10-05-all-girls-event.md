@@ -7,8 +7,6 @@ description:
 date: 2016-10-05 00:57:24
 ---
 
-# All Girls Event Invitational!
-
 This past weekend Stryke Force competed at a FIRST All Girls Event.  At this competition, the girls of the team ran the show! The boys came to support us in by cheering us on in the pits and in the stands.  There were talks throughout the day about the different fields of STEM that girls can fly into and the success that women have had in STEM!  Mackenzie, Karley, and Kyra were the mighty drive team and had a great competition.  Lilian, Sierra, Kjerstin and Maddie provided pit and programming support throughout the competition.   At the end of the day Stryke Force finished eighth in qualifications, and was the fifth seed alliance captain.  The girls did a great job fixing the robot in order for the robot to be back on the field and driving.  Also at the competition were a couple of FTC (the middle school team) girls that came to observe and participate in a FRC competition here are their thoughts about the competition: Maddie- Going to the Girls Only FRC competition on Saturday was super fun and really informative.  FRC is a lot more complex than FTC!  I got to talk to the mentors and FRC kids and learn a lot about their robot. I'm really exited about joining FRC next year! Kjerstin-
 
 The FRC all girls competitions was kind of like an FTC competition, but there were some differences - like having 3 robots on the field.  The pits were very different, especially in the sense of size and buisiness.  I learned some of the key things that can go wrong, and that sometimes you are forced to go out on the field even if you don't have a completely working robot.  I would definitely go again!

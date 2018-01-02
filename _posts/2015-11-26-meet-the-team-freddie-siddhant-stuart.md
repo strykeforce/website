@@ -7,8 +7,6 @@ description:
 date: 2015-11-26 04:01:40
 ---
 
-# MEET THE TEAM!  Freddie, Siddhant, Stuart
-
 ![Freddie Oudding](/wp-content/uploads/2015/11/Freddie-Oudding1-228x300.jpg)Freddie O
 
 Grade 11

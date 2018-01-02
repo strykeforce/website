@@ -7,8 +7,6 @@ description:
 date: 2015-11-20 18:15:58
 ---
 
-# Meet The Team! James, Sierra, Kyra
-
 ![](/wp-content/uploads/2015/11/James-Hershled2-210x300.jpg) James H.
 
 Grade 11

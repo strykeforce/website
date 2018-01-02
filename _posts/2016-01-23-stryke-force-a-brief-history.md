@@ -7,8 +7,6 @@ description:
 date: 2016-01-23 00:50:45
 ---
 
-# Stryke Force: A Brief History
-
 2015 - Recycle Rush ![2015](/wp-content/uploads/2016/01/2015.jpg) Stryke Force ranked 32nd out of 347 teams in the state and earned our way to the FRC World Championship for the first time.
 
 * * *

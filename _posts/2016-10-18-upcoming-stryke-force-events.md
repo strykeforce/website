@@ -7,8 +7,6 @@ description:
 date: 2016-10-18 02:20:17
 ---
 
-# Upcoming Stryke Force Events!
-
 As Stryke Force nears the start of the FTC Competition season, more events are available to see Stryke Force at!
 
   * The NRG season is coming to a big finale with a competition on the 20th of October at Midlink, our build space.

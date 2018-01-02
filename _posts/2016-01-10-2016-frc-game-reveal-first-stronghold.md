@@ -7,8 +7,6 @@ description:
 date: 2016-01-10 21:02:41
 ---
 
-# 2016 FRC Game Reveal - FIRST Stronghold
-
 Yesterday was the much anticipated FRC game reveal. Here is a brief description of this year's exciting game. [caption id="attachment_3270" align="aligncenter" width="1718"]![2016 Game Field](/wp-content/uploads/2016/01/Field.jpg) 2016 Game Field[/caption]  
 
 **The Quest **

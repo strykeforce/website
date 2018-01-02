@@ -7,8 +7,6 @@ description:
 date: 2015-06-19 09:00:41
 ---
 
-# Maverick's Summer Adventures - Week 3
-
 Can you guess where Maverick is this week, and what he might be doing? Comment your guess and check in [next week](/2015/06/26/mavericks-summer-adventures-week-4/) to see if you were correct! This summer Maverick is going on vacation to tour Kalamazoo with his Stryke Force friends. We'll be posting pictures of his adventures each week, so be sure to look for them!
 
 * * *

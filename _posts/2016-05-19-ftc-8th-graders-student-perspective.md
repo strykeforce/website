@@ -7,8 +7,6 @@ description:
 date: 2016-05-19 11:27:47
 ---
 
-# FTC 8th Graders-Student Perspective
-
 FTC kids are an incredible part of the Stryke Force experience. We have four amazing 8th graders graduating from the FTC program, here is what they have to say about their experiences. Sydney Libbing: FTC member for 1 season
 
 [caption id="" align="aligncenter" width="413"]![Sydney is in the middle](https://ci3.googleusercontent.com/proxy/XFDKUjxhXeir8aCLuL2Ry9a-FhzbaLteC51a3hyLlYL8QSpCV3qeiXBB4IuD-u9dmhLlZ0Ki21RfwRhkO6THWNP33km50bXFclX570a4yiUh5kdM=s0-d-e1-ft#http://strykeforce.org/wp-content/uploads/2015/12/100_3319.jpg) Sydney is in the middle[/caption]

@@ -7,8 +7,6 @@ description:
 date: 2016-03-05 00:59:51
 ---
 
-# Competition Advice
-
 Yesterday's meeting included a list of competition guidelines that students should follow, here is a brief summary of the instructions given. Those marked with an aster-ix apply to other visitors as well, not just students.
 
   1. Close toed shoes are needed, they are mandatory to be in the pits, and recommended throughout the competition.*

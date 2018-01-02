@@ -7,8 +7,6 @@ description:
 date: 2016-01-01 18:53:40
 ---
 
-# FRC Game Announcement
-
 Happy New Year everybody! To start off this wonderful 2016, the FRC team is preparing for the game announcement on January 9. For this event, students, mentors, parents, and alumni will gather together as the new game is released to the whole world at exactly 10:30. This will come in the form of a video describing the game, as well as online write-ups of the rules and regulations FIRST FRC members will have to follow.
 
 [caption id="attachment_2781" align="aligncenter" width="3008"]![FTC Game Reveal Fall 2015](/wp-content/uploads/2015/09/DSC_0088.jpg) FTC Game Reveal Fall 2015[/caption]

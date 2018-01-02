@@ -7,8 +7,6 @@ description:
 date: 2015-09-11 09:00:20
 ---
 
-# FRC Teaching FTC
-
 Over the past month and a half the Stryke Force FRC students and alumni have been teaching the FTC students everything they'll need to know going into the 2015 build season. Check out what they've been learning.   Team work and communication ![102_2051](/wp-content/uploads/2015/09/102_2051-1024x768.jpg)
 
 * * *

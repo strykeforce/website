@@ -7,8 +7,6 @@ description:
 date: 2015-11-20 09:00:30
 ---
 
-# Advice For Rookie FTC Members
-
 Our FTC teams are super excited for their first competition tomorrow, November 21! Come and cheer them on at East Kentwood High School, Opening Ceremonies will begin at 10:30am! Go [here](http://www.firstinmichigan.org/ftc/FTC_2015/west_mi.html) for more details about the event. We asked current FTC students, and FTC alumni, to share advice they have for the rookie students at the competition:
 
   * Stay hydrated!!  

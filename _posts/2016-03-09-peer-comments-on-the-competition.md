@@ -7,8 +7,6 @@ description:
 date: 2016-03-09 02:24:22
 ---
 
-# Peer comments on the competition
-
 For the people who haven't been to a FIRST robotics competition before, this weekend will be an exciting yet slightly intimidating process, to help you have the best experience possible, some of the older Stryke Force members have composed a list of advice.
 
 Mckenzie: Enjoy the music

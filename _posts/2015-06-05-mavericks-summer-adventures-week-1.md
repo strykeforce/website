@@ -7,8 +7,6 @@ description:
 date: 2015-06-05 09:00:07
 ---
 
-# Maverick's Summer Adventures - Week 1
-
 This summer Maverick is going on vacation to tour Kalamazoo with his Stryke Force friends. We'll be posting pictures of his adventures each week, so be sure to look for them! Can you guess where Maverick started his journey? Comment your guess and check in [next week](/2015/06/12/mavericks-summer-adventures-week-2/) to see if you were correct!
 
 ## Comments

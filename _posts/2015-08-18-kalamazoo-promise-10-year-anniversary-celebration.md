@@ -7,8 +7,6 @@ description:
 date: 2015-08-18 09:00:04
 ---
 
-# Kalamazoo Promise 10-year Anniversary Celebration
-
 This past Saturday, our hometown of Kalamazoo celebrated a major milestone: the Kalamazoo Promise has officially turned ten years old! The Promise has enabled thousands of students to attend Michigan colleges and universities by covering the cost of admission. The ultimate goal of the program, much like Stryke Force’s, is to inspire students to pursue education and opportunity, then return to improve our community using the skills they’ve developed.
 
 Stryke Force was one of dozens of organizations that came together in downtown Kalamazoo to celebrate. Alongside the NewMind Group, we ran the event’s technology tent. We brought out several of our friendly robots to interact with the crowd, which also gave us the chance to share our love of science and engineering with countless Kzoo residents. The tent also provided Google Chromebooks for visitors to explore, with wifi provided by a mobile hotspot. This was the kind of experience our team treasures: nothing is more exciting than to see our community collaborate, not only by connecting through technology, but also by giving each other a pat on the back for ten years of incredible achievements. We had an awesome time, and we’re already looking forward to the Promise’s 20th anniversary!

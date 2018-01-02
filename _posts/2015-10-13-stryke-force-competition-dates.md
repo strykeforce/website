@@ -7,8 +7,6 @@ description:
 date: 2015-10-13 21:02:08
 ---
 
-# Stryke Force Competition Dates
-
 One of the most exciting things about the FIRST Robotics teams are the competitions. This is when we get to see all of our hard work pay off. This year's competition dates include-
 
 October 24 \- West Michigan Robotics Invitational - Zeeland High School (To learn more about this one, go to http://www.wmri.info/)

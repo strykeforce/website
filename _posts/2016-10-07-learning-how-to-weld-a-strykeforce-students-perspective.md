@@ -7,8 +7,6 @@ description:
 date: 2016-10-07 21:21:29
 ---
 
-# Learning How To Weld- A StrykeForce Student's Perspective
-
 This past summer and fall we held a welding class. One of our students, Freddie Ouding,
 
 welded most of our aluminum frame for our robot last year. This past summer Freddie worked

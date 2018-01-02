@@ -7,8 +7,6 @@ description:
 date: 2016-09-13 20:17:48
 ---
 
-# Honor Flight
-
 This past Saturday Stryke Force members gathered at the Air Zoo to participate in the 2016 Honor Flight. The [Talons Out](http://talonsouthonorflight.org/) organization  raises money to send war veterans to Washington D.C. to view their memorials. Our team volunteers as the ground crew and sets up the parade route for the Veteran's Homecoming Parade.  Personally, I thought the whole experience was phenomenal and a great way for the FTC (middle school) and FRC (high school) teams to get to know each other better. It was also a great way to learn skills such as being civil and polite while giving directions, and to be patient when helping others.
 
 ### **THEN, THE MAIN EVENT, THE VETERANS ARRIVED!**

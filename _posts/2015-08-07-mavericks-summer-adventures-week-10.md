@@ -7,8 +7,6 @@ description:
 date: 2015-08-07 09:00:42
 ---
 
-# Maverick's Summer Adventures - Week 10
-
 Maverick went for a walk in the park and stopped for a rest next to this waterfall. Can you guess what park he's at? Comment your guess and check in [next week](/2015/08/14/mavericks-summer-adventures-week-11/) to see if you were correct! This summer Maverick is going on vacation to tour Kalamazoo with his Stryke Force friends. We'll be posting pictures of his adventures each week, so be sure to look for them!
 
 * * *

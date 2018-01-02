@@ -7,8 +7,6 @@ description:
 date: 2014-10-24 09:00:46
 ---
 
-# Invitational
-
 Tomorrow is our invitational in Zeeland! Remember: Wear closed toed shoes If you plan on going into the pits, don't forget to wear safety glasses Have Fun! You can collect buttons in the pits from all the teams and cheer for your team! Hope to see you all there! ![008](/wp-content/uploads/2014/10-0081-300x200.jpg)
 
 ## Comments

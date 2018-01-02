@@ -7,8 +7,6 @@ description:
 date: 2015-12-22 21:25:56
 ---
 
-# Stryke Force FTC State Competition
-
 The FTC teams participated in a satisfactory end to their season competition this weekend at Lakeview High School. During the qualifying matches 7228 was undefeated, and 8553 lost one match and tied in another. 7228 ended qualifying in first place and 8553 was in fifth. 8553 was then accepted into the second seed alliance with the Green Twisted Devils and NC Gears. Along with their alliance partners, the Thunder Colts, and the Robo Toasters, 7228 played well, but lost in the semifinals.  However, team 8553 went on to finals, and the championship game between the winner of the Franklin division and the Edison division. They were the second place alliance in the Michigan State Championship Competition.
 
 ![100_3520](https://ci5.googleusercontent.com/proxy/ueXOPoukc7QH_4ILNUKLKdhI3OyqIXpWXS7v2C3rjqFxbfr9yQJoCHeO-3DUPi0YTvmfsFt2gjvcncC1yBFLOKTS1wQpwWKZTqIc-QqW4cRMlujU=s0-d-e1-ft#http://strykeforce.org/wp-content/uploads/2015/12/100_3520.jpg)

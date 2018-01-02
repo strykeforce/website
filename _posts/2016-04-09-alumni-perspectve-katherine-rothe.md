@@ -7,8 +7,6 @@ description:
 date: 2016-04-09 00:33:12
 ---
 
-# Alumni Perspectve: Katherine Rothe
-
 With the excitement about State and World competitions, here's a reminder on some of the long-lasting benefits of Stryke Force Robotics. Katherine Rothe is a Stryke Force alumni currently at Purdue University for the second year. Here are some answers  Katherine had to questions posed.
 
 [caption id="attachment_3685" align="aligncenter" width="600"]![Katherine!](/wp-content/uploads/2016/04/20160408_162224.jpg) Katherine![/caption]

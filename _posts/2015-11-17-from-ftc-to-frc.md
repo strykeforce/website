@@ -7,8 +7,6 @@ description:
 date: 2015-11-17 09:00:51
 ---
 
-# From FTC to FRC
-
 Jack Bruinwood joined FTC team 7228 in 2012 as a 7th grader and was the lead driver for two years. Now a freshman on the high school team, Jack will be driving the FRC robot in the 2016 season. He’s already had a chance to drive at the WMRI, assisting the team in their victory. FTC has done a good job of preparing Jack for driving in high school. He already has a lot experience with strategizing, as well as how to form strong alliances. Here’s what Jack feels is different driving for FRC compared to FTC.
 
 ** **

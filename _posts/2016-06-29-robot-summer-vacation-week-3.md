@@ -7,8 +7,6 @@ description:
 date: 2016-06-29 03:55:13
 ---
 
-# Robot Summer Vacation - Week 3
-
 Robin Hood had a great time playing Stronghold with all of his FRC friends last season! Now that the off-season has started he wants to try out the other activities his Stryke Force friends are involved with. Freddie taught Robin Hood how to golf! Robin Hood and his caddie are all set to head out to the golf course!  
 
 * * *
