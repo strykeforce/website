@@ -1,0 +1,12 @@
+---
+layout: post
+title: St. Joe Pictures
+subtitle:
+author: rabickaudr
+description:
+date: 2016-03-16 23:15:39
+---
+
+# St. Joe Pictures
+
+This weekend was amazing, with Stryke Force finishing strong. Here are some pictures to recap the highlights of the days. [caption id="attachment_3584" align="aligncenter" width="699"]![Stryke Force on the game field](/wp-content/uploads/2016/03/100_0799.jpg) Stryke Force on the game field[/caption]   [caption id="attachment_3579" align="aligncenter" width="701"]![Working on the Robot](http://strykeforce.org/wp-content/uploads/2016/03/100_0758.jpg) Working on the Robot[/caption]   [caption id="attachment_3580" align="aligncenter" width="701"]![In the stands](http://strykeforce.org/wp-content/uploads/2016/03/100_0777.jpg) In the stands[/caption]   [caption id="attachment_3595" align="aligncenter" width="702"]![The Drive team ](http://strykeforce.org/wp-content/uploads/2016/03/Copy-of-IMG_1314.jpg) The Drive team[/caption]   [caption id="attachment_3582" align="aligncenter" width="701"]![Lunchtime!](http://strykeforce.org/wp-content/uploads/2016/03/100_0790.jpg) Lunchtime![/caption]   [caption id="attachment_3581" align="aligncenter" width="699"]![Stryke Force robot Competing](http://strykeforce.org/wp-content/uploads/2016/03/100_0779.jpg) Stryke Force robot Competing[/caption]   [caption id="attachment_3594" align="aligncenter" width="702"]![The Stryke Force Standard](http://strykeforce.org/wp-content/uploads/2016/03/Copy-of-IMG_1166.jpg) The Stryke Force Standard[/caption]   [caption id="attachment_3583" align="aligncenter" width="698"]![Our Mascot](http://strykeforce.org/wp-content/uploads/2016/03/100_0798.jpg) Our Mascot[/caption]   [caption id="attachment_3574" align="aligncenter" width="702"]![Our amazing pit](http://strykeforce.org/wp-content/uploads/2016/03/100_0749.jpg) Our amazing pit[/caption]   [caption id="attachment_3596" align="aligncenter" width="699"]![The Business Team Presenters](http://strykeforce.org/wp-content/uploads/2016/03/IMG_2295.jpg) The Business Team Presenters[/caption]   [caption id="attachment_3585" align="aligncenter" width="696"]![The winner's trophy](http://strykeforce.org/wp-content/uploads/2016/03/100_0807.jpg) The winner's trophy[/caption]   [caption id="attachment_3586" align="aligncenter" width="4000"]![Stryke Force!](http://strykeforce.org/wp-content/uploads/2016/03/100_0811.jpg) Stryke Force![/caption]
