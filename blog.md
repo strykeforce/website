@@ -21,11 +21,11 @@ layout: template
       </tr>
       <tr>
         {% if post.author != null %}
-          <td>{{ post.author }}&nbsp;–&nbsp;</td>
+          <td>{{ post.author }}</td>
         {% endif %}
 
         {% if post.description != null %}
-          <td>{{ post.description }}</td>
+          <td>&nbsp;–&nbsp;{{ post.description }}</td>
         {% endif %}
       </tr>
       <tr>
