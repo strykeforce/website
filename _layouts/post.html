@@ -20,6 +20,9 @@
       {% if page.author != null %}<h4> Written by: {{ page.author }}</h4>{% endif %}
       {% if page.date != null %}<h4>Published: {{ page.date | date: "%B %-d, %Y" }}</h4>{% endif %}
       <br>
+      {% if page.image %}
+        <div class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></div>
+      {% endif %}
 			{{ content }}
 
 		</div>
