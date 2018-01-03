@@ -8,9 +8,9 @@ layout: template
 <ul>
   {% for post in site.posts limit:10 %}
     <table>
-    {% if post.image != null %}
+    {% if post.featured != null %}
       <tr>
-        <td>{{ post.image }}</td>
+        <td><img src="{{ site.url }}/assets/img/posts/{{ post.featured }}" width="150px"></td>
       </tr>
     {% endif %}
       <tr>
