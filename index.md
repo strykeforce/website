@@ -35,13 +35,13 @@ title: Stryke Force
 							<!-- Wrapper for slides -->
 							<div class="carousel-inner">
 								<div class="item active">
-									<img src="{{ site.url }}/assets/img/World Champions.JPG" alt="FRC">
+									<img src="{{ site.url }}/assets/img/World Champions.jpg" alt="FRC">
 									<div class="carousel-caption">
 										<h4>World Champions</h4>
 									</div>
 								</div>
 								<div class="item">
-									<img src="{{ site.url }}/assets/img/20170628_130650.jpg" alt="With Governor Snyder">
+									<img src="{{ site.url }}/assets/img/20170628_130650.JPG" alt="With Governor Snyder">
 									<div class="carousel-caption">
 										<h4>With the Governor</h4>
 									</div>
