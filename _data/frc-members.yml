@@ -1,150 +1,227 @@
-- name: Alex Eldridge
-  job: none
-  img: assets/img/stryke-force/students-frc/P1090379.JPG
-  school:
-- name: Alex Zajac
-  job: none
-  img:
-- name: Anna Puca
+- name: Alex E
+  job:
+  file: P1090379.JPG
+  school: Portage Northern
+  grade: 9
+
+- name: Alex Z
   job: Build
-  img:
+  file: P1090370.JPG
   school:
-- name: Audrey Rabick
+  grade: 9
+
+- name: Anna P
+  job: Build
+  file:
+  school:
+  grade:
+
+- name: Audrey R
   job: Business
-  img: assets/img/stryke-force/students-frc/P1090377.JPG
+  file: P1090377.JPG
+  school: Comstock/KAMSC
+  grade: 11
+
+- name: Brianna K
+  job:
+  file: P1090376.JPG
   school:
-- name: Brianna Kohl
-  job: none
-  img: assets/img/stryke-force/students-frc/P1090376.JPG
-  school:
-- name: Cade Peterman
+  grade:
+
+- name: Cade P
   job: Build
-  img: assets/img/stryke-force/students-frc/P1090381.JPG
-  school:
-- name: Carter Briggs
+  file: P1090381.JPG
+  school: Loy Norrix
+  grade: 10
+
+- name: Carter B
   job: Build
-  img: assets/img/stryke-force/students-frc/P1090364.JPG
-  school:
-- name: Carte	Simmons
+  file: P1090364.JPG
+  school: Portage Northern/KAMSC
+  grade: 11
+
+- name: Carter S
   job: Build
-  img:
-  school:
-- name: Connor Piereson
+  file:
+  school: Mattawan
+  grade: 9
+
+- name: Connor P
   job: Build
-  img:
-  school:
-- name: David	Herr
+  file:
+  school: Portage Northern
+  grade: 11
+
+- name: David	H
   job: Build
-  img:
+  file: P1090380.JPG
   school:
-- name: Drew Stark
+  grade: 9
+
+- name: Drew S
   job: Build
-  img: assets/img/stryke-force/students-frc/P1090363.JPG
-  school:
-- name: Ethan	Clare
+  file: P1090363.JPG
+  school: Gull Lake/KAMSC
+  grade: 12
+
+- name: Ethan	C
   job: Build
-  img:
-- name: Ethan Lee
-  job: none
-  img: assets/img/stryke-force/students-frc/P1090378.JPG
+  file:
+  school: Portage Northern
+  grade: 9
+
+- name: Ethan L
+  job:
+  file: P1090378.JPG
   school:
-- name: Greg Redlon
+  grade:
+
+- name: Greg R
   job: Build
-  img:
-  school:
-- name: Hunter McGillivray
+  file:
+  school: Portage Central
+  grade: 11
+
+- name: Hunter M
   job: Build
-  img: assets/img/stryke-force/students-frc/P1090375.JPG
+  file: P1090375.JPG
+  school: Portage Northern
+  grade: 11
+
+- name: Hunter S
+  job:
+  file:
   school:
-- name: Hunter Schabes
-  job: none
-  img:
+  grade:
+
+- name: Jacob	W
+  job:
+  file:
   school:
-- name: Jacob	Woessner
-  job: none
-  img:
-  school:
-- name: Jager	Doorn
+  grade: 9
+
+- name: Jager	D
   job: Build
-  img: assets/img/stryke-force/students-frc/P1090367.JPG
-  school:
-- name: Jack Bruinwood
+  file: P1090367.JPG
+  school: Homeschool
+  grade: 9
+
+- name: Jack B
+  job: Build/Drive
+  file:
+  school: Homeschool
+  grade: 11
+
+- name: Julie A
+  job:  Build
+  file: P1090373.JPG
+  school: Portage Northern Belgian Exchange Student
+  grade: 12
+
+- name: Kayleigh B
+  job:
+  file:
+  school: Gull Lake/KAMSC
+  grade: 11
+
+- name: Kjerstin L
   job: Build
-  img:
-  school:
-- name: Julie
-  job: none
-  img: assets/img/stryke-force/students-frc/P1090373.JPG
-  school:
-- name: Kayleigh Batchos
-  job: none
-  img:
-  school:
-- name: Kjerstin Lindbloom
+  file: P1090366.JPG
+  school: Mattawan
+  grade: 9
+
+- name: Kris O
   job: Build
-  img: assets/img/stryke-force/students-frc/P1090366.JPG
+  file: P1090365.JPG
   school:
-- name: Kris Ouvry
-  job: Build
-  img:
-  school:
-- name: Lilian Gates
+  grade:
+
+- name: Lillian G
   job: Programming
-  img: assets/img/stryke-force/students-frc/P1090360.JPG
+  file: P1090360.JPG
   school:
-- name: Maddie Dwyer
+  grade: 9
+
+- name: Maddie D
   job: Programming
-  img:
-  school:
-- name: Matt Clark
+  file:
+  school: Portage Central
+  grade: 9
+
+- name: Matt C
   job: Build
-  img:
+  file:
+  school: Portage Northern
+  grade: 11
+
+- name: Nina H
+  job:
+  file: P1090374.JPG
   school:
-- name: Nina	Herschleb
-  job: none
-  img: assets/img/stryke-force/students-frc/P1090374.JPG
-  school:
-- name: Onica	Nyachowe
-  job: none
-  img:
-  school:
-- name: Ranya	Liu
+  grade:
+
+- name: Onica	N
+  job:
+  file:
+  school: Mattawan
+  grade: 10
+
+- name: Ranya	L
   job: Programming
-  img: assets/img/stryke-force/students-frc/P1090359.JPG
+  file: P1090359.JPG
   school:
-- name: Riley	Carlson
+  grade: 10
+
+- name: Riley	C
   job: Programmingimg
-  img:
-  school:
-- name: Roberts	Kalnins
+  file:
+  school: Portage Northern
+  grade: 10
+
+- name: Roberts	K
   job: Programming
-  img: assets/img/stryke-force/students-frc/P1090362.JPG
-  school:
-- name: Ross Malackowski
-  job: none
-  img:
-  school:
-- name: Sam	Breuer
-  job: Programming
-  img:
-  school:
-- name: Sam	Rabick
-  job: Programming
-  img: assets/img/stryke-force/students-frc/P1090371.JPG
-  school:
-- name: Sid	Pagariya
-  job: Programming
-  img:
-  school:
-- name: Sierra Staunton
+  file: P1090362.JPG
+  school: Portage Northern/KAMSC
+  grade: 11
+
+- name: Ross M
   job: Build
-  img:
-  school:
-- name: Stuart Botfield
+  file:
+  school: Homeschool
+  grade: 11
+
+- name: Sam	B
   job: Programming
-  img:
+  file: P1090361.JPG
+  school: Portage Central
+  grade: 12
+
+- name: Sam	R
+  job: Programming
+  file: P1090371.JPG
+  school: Comstock/KAMSC
+  grade: 9
+
+- name: Sid	P
+  job: Programming
+  file:
+  school: Portage Northern/KAMSC
+  grade:  12
+
+- name: Sierra S
+  job: Build
+  file:
+  school: Portage Northern/KAMSC
+  grade:  11
+
+- name: Stuart B
+  job: Programming
+  file:
+  school: Portage Central
+  grade: 12
+
+- name: Trenton	Seeger
+  job:
+  file:
   school:
-- name: Trenten	Seeger
-  job: none
-  img:
-  school:
+  grade:

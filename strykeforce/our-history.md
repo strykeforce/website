@@ -13,9 +13,9 @@ In the 2011-2012 season, the team gained a few more sponsors including Western M
 
 Additional regional awards in 2012 included:
 
-*Rockwell Automation Innovation in Control Award
-*Delphi Engineering Excellence Award
-*Xerox Creativity Award
+1. Rockwell Automation Innovation in Control Award
+2. Delphi Engineering Excellence Award
+3. Xerox Creativity Award
 
 Stryke Force also was awarded the Xerox Creativity Award at the state competition. Again, Stryke Force advanced in rankings to 15th in the state.
 
