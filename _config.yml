@@ -7,7 +7,7 @@
 
 # Site settings
 title: Stryke Force
-subtitle:
+subtitle: A FIRST Robotics Team
 email:
 description: Stryke Force's <br /> new responsive site.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -34,7 +34,7 @@ instagram_username:
 facebook_username:
 dribble_username:
 
-github_url:
+github_url: https://github.com/strykeforce
 twitter_url:
 facebook_url:
 instagram_url:

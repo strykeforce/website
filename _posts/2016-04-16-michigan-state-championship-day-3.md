@@ -1,0 +1,12 @@
+---
+layout: post
+title: Michigan State Championship - Day 3
+subtitle:
+author: kelseybwood
+description:
+date: 2016-04-16 02:48:58
+---
+
+* * *
+
+We had a fantastic 3rd day at the Michigan State Championship! We won all 7 of our matches today, ending the day in 1st place! The judges came through the pit, asking questions about our robot and business plan. Our business team gave their presentation to the judges for the Engineering Inspiration Award. Members of our team had fun with Team 2054 and their Safety Weasel, Jeffrey. It was awesome to have some fun with old friends, as well as make new friends. Follow Jeffrey's adventures on Twitter by searching #whereisjeffrey [caption id="attachment_3710" align="aligncenter" width="1000"]![Jeffrey the Safety Weasel](/wp-content/uploads/2016/04/IMG_20160415_222420-1024x768.jpg) Jeffrey the Safety Weasel[/caption] We are now going through our scouting data at the hotel to prepare for tomorrow's alliance selection. Come and see us at the DeltaPlex in Grand Rapids! For more event details go [here](http://firstinmichigan.org/FRC_2016/State_Championship/state_championship.html). [Upcoming Events:](http://www.strykeforce.org/events) [FRC World Championship](http://strykeforce.org/events/event/frc-world-championship/) – April 27, 28, 29, and 30. [Prospective Student Open Houses](http://strykeforce.org/2016/03/26/open-house-announcement/) – May 16, 17, and 18.

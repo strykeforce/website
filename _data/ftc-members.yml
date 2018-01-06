@@ -1,18 +1,108 @@
-- name:
-  img: assets/img/stryke-force/students-ftc/P1090383.JPG
-- name:
-  img: assets/img/stryke-force/students-ftc/P10986.JPG
-- name:
-  img: assets/img/stryke-force/students-ftc/P1090387.JPG
-- name:
-  img: assets/img/stryke-force/students-ftc/P1090388.JPG
-- name:
-  img: assets/img/stryke-force/students-ftc/P1090393.JPG
-- name:
-  img: assets/img/stryke-force/students-ftc/P1090394.JPG
-- name:
-  img: assets/img/stryke-force/students-ftc/P1090395.JPG
-- name:
-  img: assets/img/stryke-force/students-ftc/P1090396.JPG
-- name:
-  img: assets/img/stryke-force/students-ftc/P1090397.JPG
+- name: Missy D
+  file: mentors/MissyDwyer.jpg
+  role: coach
+
+- name: True D
+  file:
+  role: mentor
+
+- name: Andy S
+  file: mentors/AndyStaats.jpg
+  role: mentor
+
+- name: Cory W
+  file: mentors/CoryWalters.jpg
+  role: mentor
+
+- name: Cory W
+  file: mentors/CoryWelch.jpg
+  role: mentor
+
+- name: Craig W
+  file:
+  role: mentor
+
+- name: Anneka D
+  file:
+  team: 7228
+  role: member
+
+- name: Tori D
+  file:
+  team: 7228
+  role: member
+
+- name: Cameron H
+  file:
+  team: 7228
+  role: member
+
+- name: Cole S
+  file:
+  team: 7228
+  role: member
+
+- name: Gideon S
+  file:
+  team: 7228
+  role: member
+
+- name: Sarthak S
+  file:
+  team: 7228
+  role: member
+
+- name: Joathan W
+  file:
+  team: 7228
+  role: member
+
+- name: Sylvia W
+  file:
+  team: 7228
+  role: member
+
+- name: Deshana B
+  file:
+  team: 8553
+  role: member
+
+- name: Arush G
+  file:
+  team: 8553
+  role: member
+
+- name: Zach M
+  file:
+  team: 8553
+  role: member
+
+- name: Cassie N
+  file:
+  team: 8553
+  role: member
+
+- name: Logan R
+  file:
+  team: 8553
+  role: member
+
+- name: Maxwell S
+  file:
+  team: 8553
+  role: member
+
+- name: Ethan S
+  file:
+  team: 8553
+  role: member
+
+- name: Siddharth T
+  file:
+  team: 8553
+  role: member
+
+- name: Nia W
+  file:
+  team: 8553
+  role: member
