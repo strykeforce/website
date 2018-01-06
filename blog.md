@@ -20,8 +20,8 @@ layout: template
         <td>{{ post.date | date: "%B %-d, %Y" }}</td>
       </tr>
       <tr>
-        {% if post.author != null %}
-          <td>{{ post.author }}</td>
+        {% if post.author.display_name != null %}
+          <td>{{ post.author.display_name }}</td>
         {% endif %}
 
         {% if post.description != null %}

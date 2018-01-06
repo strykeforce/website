@@ -17,7 +17,7 @@
 		<div class="container">
 			<h1>{{ page.title }}</h1>
       {% if page.subtitle != null %}<h2>{{ page.subtitle }}</h2>{% endif %}
-      {% if page.author != null %}<h4> Written by: {{ page.author }}</h4>{% endif %}
+      {% if page.author.display_name != null %}<h4> Written by: {{ page.author.display_name }}</h4>{% endif %}
       {% if page.date != null %}<h4>Published: {{ page.date | date: "%B %-d, %Y" }}</h4>{% endif %}
       <br>
       {% if page.image %}
