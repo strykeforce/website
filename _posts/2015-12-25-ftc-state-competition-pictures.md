@@ -9,7 +9,7 @@ password: ''
 status: publish
 categories:
 - 2015-2016 Season
-- 2015-2016 Studehttp://strykeforce.org/wp-admin/post-new.php#category-addnts
+- 2015-2016 Students
 - Events
 - FTC
 - Pictures

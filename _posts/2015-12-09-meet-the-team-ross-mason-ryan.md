@@ -8,7 +8,7 @@ published: true
 password: ''
 status: publish
 categories:
-- 2015-2016 Studehttp://strykeforce.org/wp-admin/post-new.php#category-addnts
+- 2015-2016 Students
 - Meet The Team 2015-2016
 tags: []
 meta:
