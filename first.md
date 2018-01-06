@@ -1,10 +1,8 @@
 ---
 layout: template
-title: FIRST
+title: FIRST Robotics
 description: FIRST Robotics
 ---
-
-<h1>FIRST Robotics</h1>
 
 <h3>FIRST ROBOTICS COMPETITION</h3>
 <p>Did you know FIRST is an acronym? Its real title is “For Inspiration and Recognition of Science and Technology.</p>

@@ -1,0 +1,27 @@
+- name: Robert Dodde
+  file:
+  role: coach
+
+- name: Benny VanDyken
+  file:
+  role: coach
+
+- name: Kyle Batzer
+  file:
+  role: mentor
+
+- name: Lucas Gsellman
+  file:
+  role: mentor
+
+- name: Ben Miron
+  file:
+  role: mentor
+
+- name: Kirby Neihouser
+  file:
+  role: mentor
+
+- name: Marisa Witcpalek
+  file:
+  role: mentor
